@@ -1,0 +1,141 @@
+{
+  "main": {
+    "name": "Kamya Johar ",
+    "occupation": " A Software Developer",
+    "description": "who eats, sleep and breathe code",
+    "image": "profilePic.png",
+    "bio": "Hi there! I am Kamya Johar.First born to my parents and an elder sister to two siblings. An electrical engineer turned a digital marketer turned an IT security Associate turned a Full Stack devloper.I love learning new things.I am an avid book reader who loves dancing.",
+    "contactmessage": "Get in touch with me on linkedin!",
+    "email": "johar.kamya3@gmail.com",
+    
+    "address": {
+      "street": "",
+      "city": "New Delhi",
+      "state": "New Delhi",
+      "zip": "110034"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "Kamya_Johar-Resume.pdf",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCiGbysAENc6ZTTbhzs3B9_Q",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/kamya.johar/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kamyajohar/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/kamya_johar",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/kamyajohar02",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "GGSIPU, DELHI",
+        "degree": "Bachelor's Degree, Electrical and Electronics",
+        "graduated": "Dec, 2020",
+        "description": "8.4 GPA"
+      }
+    ],
+    "work": [
+      {
+        "company": "NTT Data services",
+        "title": "Senior Security Associate",
+        "years": "July 2021 - November 2023",
+        "description": "Worked with a US client known as Toll Brothers.Handled their high priority requests"
+      },
+      {
+        "company": "Sona Constructions Pvt Ltd",
+        "title": "Frontend Intern",
+        "years": "March 2023 - August 2023",
+        "description": "Created a products and a contact page for a construction company "
+
+      },
+      {
+        "company": "Qviq",
+        "title": "FullStack Intern",
+        "years": "November 2023 - Jan 2024",
+        "description": "Created components in Next Js for a SaaS product while sharpening my skills at frontend and learning basic backend  "
+
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "C++",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone (Next.js)",
+        "category": "",
+        "image": "Amazonclone.png",
+        "url": "https://github.com/KamyaJohar02/Amazon_2.0"
+      },
+      {
+        "title": "Roll A Dice",
+        "category": "",
+        "image": "dicegame.png",
+        "url": "https://rolladie.netlify.app/"
+      },
+      {
+        "title": "Open Me Card",
+        "category": "",
+        "image": "openme.png",
+        "url": "https://loverletterbykamya.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Atomic Habits",
+        "image": "Atomichabits.jpeg"
+      },
+      {
+        "text": "Rich Dad Poor Dad",
+        "image": "richpoor.jpeg"
+      },
+      {
+        "text": "Bhagwad Gita",
+         "image":"bhagwadgita.jpeg"
+
+      }
+    ]
+  }
+}
