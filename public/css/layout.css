@@ -169,7 +169,7 @@ ul#nav li a {
    line-height: 32px;
 	text-decoration: none;
    text-align: left;
-   color: white;
+   color: rgb(225, 235, 236);
    font-size:20px;
 
 	-webkit-transition: color .2s ease-in-out;
@@ -180,7 +180,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #e52626; }
+ul#nav li.current a { color: #c37272; }
 
 
 /* ------------------------------------------------------------------ */

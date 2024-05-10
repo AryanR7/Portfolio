@@ -1,45 +1,41 @@
 {
   "main": {
-    "name": "Aryan Rajput ",
+    "name": "Aryan Rajput",
     "occupation": " A Software Developer",
     "description": "who eats, sleep and breathe code",
-    "image": "profilePic.png",
-    "bio": "Hi there! I am Aryan Rajput.First born to my parents and an elder sister to two siblings. An electrical engineer turned a digital marketer turned an IT security Associate turned a Full Stack devloper.I love learning new things.I am an avid book reader who loves dancing.",
-    "contactmessage": "Get in touch with me on linkedin!",
-    "email": "aryanrajput278@yahoo.com",
+    "image": "profilePic.jpeg",
+    "bio": "Hi there! I am Aryan Rajput. Coding is my passion, and I love bringing my ideas to life through illustrations on my iPad. Whether I'm crafting elegant algorithms or creating vibrant digital artwork, I'm always eager to dive into new projects and explore the endless possibilities of technology.",
+    "contactmessage": "Get in touch with me!",
+    "email": "aryan.rajput@aalto.fi, +358-0407377721",
     
     "address": {
-      "street": "",
-      "city": "New Delhi",
-      "state": "New Delhi",
-      "zip": "110034"
+      "street": "ServinMaijanTie 12 D 43",
+      "city": "Espoo",
+      "state": "Helsinki,",
+      "zip": "02150"
     },
     "website": "https://www.papareact.com/course",
-    "resumedownload": "Kamya_Johar-Resume.pdf",
+    "resumedownload": "Aryan-Rajput-Resume-2024.pdf",
     "social": [
-      {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCiGbysAENc6ZTTbhzs3B9_Q",
-        "className": "fa fa-youtube"
-      },
+     
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/kamya.johar/",
+        "url": "https://www.facebook.com/aryan.verma.794",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/kamyajohar/",
+        "url": "https://www.linkedin.com/in/aryanrajput07/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/kamya_johar",
+        "url": "https://www.instagram.com/rajput_7aryan",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/kamyajohar02",
+        "url": "https://github.com/AryanR7",
         "className": "fa fa-github"
       }
     ]
@@ -51,36 +47,34 @@
         "school": "GGSIPU, DELHI",
         "degree": "Bachelor's Degree, Electrical and Electronics",
         "graduated": "Dec, 2020",
-        "description": "8.4 GPA"
+        "description": "8.1 GPA"
+      },
+      {
+        "school": "Aalto University",
+        "degree": "Master's Degree, Automation and Electrical Engineering",
+        "description": "Ongoing"
       }
     ],
     "work": [
       {
         "company": "NTT Data services",
-        "title": "Senior Security Associate",
-        "years": "July 2021 - November 2023",
-        "description": "Worked with a US client known as Toll Brothers.Handled their high priority requests"
+        "title": "ServiceNow Developer",
+        "years": "December 2021 - August 2023",
+        "description": "Worked as a ServiceNow developer, specialized in configuring and customizing the ServiceNow platform to meet the specific needs of an organization."
       },
       {
-        "company": "Sona Constructions Pvt Ltd",
-        "title": "Frontend Intern",
-        "years": "March 2023 - August 2023",
-        "description": "Created a products and a contact page for a construction company "
-
-      },
-      {
-        "company": "Qviq",
-        "title": "FullStack Intern",
-        "years": "November 2023 - Jan 2024",
-        "description": "Created components in Next Js for a SaaS product while sharpening my skills at frontend and learning basic backend  "
-
+        "company": "Aalto University",
+        "title": "Research Assistant",
+        "years": "September 2023 - December 2023",
+        "description": "Worked as a part time RA for the Electric Drives group on topic Inverter losses in 3-phase inverter."
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "80%"
+        "name": "Python",
+        "level": "60%"
       },
+      
       {
         "name": "C++",
         "level": "85%"
@@ -91,27 +85,25 @@
       },
       {
         "name": "JavaScript",
-        "level": "80%"
+        "level": "50%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "40%"
       },
       {
         "name": "Web Development",
-        "level": "70%"
+        "level": "20%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Amazon Clone (Next.js)",
+        "title": "TicTacToe",
         "category": "",
-        "image": "Amazonclone.png",
-        "url": "https://github.com/KamyaJohar02/Amazon_2.0"
-      },
-      {
-        "title": "Roll A Dice",
-        "category": "",
-        "image": "dicegame.png",
-        "url": "https://rolladie.netlify.app/"
+        "image": "ttt.png",
+        "url": "https://aryanttt.netlify.app/"
       },
       {
         "title": "Open Me Card",
@@ -124,16 +116,22 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Atomic Habits",
-        "image": "Atomichabits.jpeg"
+        "text": "NFT1",
+        "image": "nft1.PNG"
       },
       {
-        "text": "Rich Dad Poor Dad",
-        "image": "richpoor.jpeg"
+        "text": "NFT2",
+        "image": "nft2.PNG"
       },
       {
-        "text": "Bhagwad Gita",
-         "image":"bhagwadgita.jpeg"
+        "text": "NFT3",
+         "image":"nft3.PNG"
+
+      },
+      
+      {
+        "text": "Shoe Design",
+         "image":"shoe.PNG"
 
       }
     ]
