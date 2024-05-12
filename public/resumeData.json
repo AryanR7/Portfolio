@@ -15,7 +15,7 @@
       "zip": "02150"
     },
     "website": "https://www.papareact.com/course",
-    "resumedownload": "Aryan-Rajput-Resume-2024.pdf",
+    "resumedownload": "Aryan-Rajput-Resume2024.pdf",
     "social": [
      
       {
@@ -104,13 +104,8 @@
         "category": "",
         "image": "ttt.png",
         "url": "https://aryanttt.netlify.app/"
-      },
-      {
-        "title": "Open Me Card",
-        "category": "",
-        "image": "openme.png",
-        "url": "https://loverletterbykamya.netlify.app/"
       }
+      
     ]
   },
   "testimonials": {
